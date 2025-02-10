@@ -5,5 +5,5 @@ function displayDate() {
 
 // Function to change text content
 function changeText() {
-    document.getElementById("demo1").innerHTML = "Bye World.";
+    document.getElementById("demo1").innerHTML = "ByeBye World.";
 }
